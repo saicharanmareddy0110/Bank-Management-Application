@@ -34,7 +34,7 @@ Bank-Management-System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Bank-Management-System.git
+   git clone https://github.com/saicharanmareddy0110/Bank-Management-Application.git
    ```
 
 2. Navigate to the project directory:
